@@ -1,1 +1,1 @@
-# contacsapp
+# contacsapp CLI
